@@ -42,4 +42,12 @@ We imported the tests from `test_module.py` to `main.py` for your convenience. T
 
 ### Submitting
 
-Copy this project url and submit it to freecodeCamp. As this is first task to complete.
+Copy this project url and submit it to freecodeCamp. As this is first task to complete for the data analysis with Python Free cousres.
+
+### Course link 
+
+https://www.freecodecamp.org/learn/data-analysis-with-python/
+
+### Solution Link
+
+https://replit.com/@Rajsingh129/Mean-varinace-calculator
